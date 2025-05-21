@@ -1,14 +1,12 @@
-
 import './App.css'
-import Toggle from './componenets/toggle'
+import Toggle from "../src/componenets/Toggle"
 
 function App() {
 
   return (
     <>
      <div>
-      <Toggle />
-      
+  <Toggle />      
      </div>
     </>
   )
